@@ -876,8 +876,6 @@ var rules = []string{
 	"peew",
 	"peoplepal",
 	"perlu -",
-	"phantomjs screenshoter",
-	"phantomjs/",
 	"photon/",
 	"php-requests",
 	"phpservermon",
