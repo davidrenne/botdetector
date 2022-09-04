@@ -1,4 +1,4 @@
-module github.com/logocomune/botdetector
+module github.com/davidrenne/botdetector
 
 go 1.17
 
